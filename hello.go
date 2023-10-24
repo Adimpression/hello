@@ -1,8 +1,8 @@
 package main
 
 import (
-	"example.com/user/hello/morestrings"
 	"fmt"
+	"github.com/adimpression/hello/morestrings"
 )
 
 func main() {
